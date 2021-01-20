@@ -1,13 +1,22 @@
-# Landing Page Project
+# The Landing Page Project
 
-## Table of Contents
+his project is the second project of the **Udacity Front-End Development NanoDegree** - The Landing Page. It's main goal is to show the skills and knowledge of JavaScript by creating a dynamic menu and section highlights. 
+For more information on the course visit [Udacity](https://www.udacity.com/)
 
-* [Instructions](#instructions)
+## Usage
 
-## Instructions
+To see this project live simply run the index.html file.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Contributing
 
-To get started, open `js/app.js` and start building out the app's functionality
+I would be very happy if you would like to show me how to improve this project or what alternative methods there are to achieve the same result. 
+When contributing please make sure you comment your changes with `// single line comments //`
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## The Licence
+
+There are no licences selected for this project.
+
+Below is some .md syntax training only
+
+
+
