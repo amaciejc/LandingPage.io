@@ -60,7 +60,6 @@ section {
     min-height: 80vh;
 }
 
-
 /* ---- Module Rules ---- */
 
 /* Navigation Styles*/
@@ -87,7 +86,7 @@ section {
     padding: 1em;
     font-weight: bold;
     text-decoration: none;
-    color: #000;
+    color: white;
 }
 
 .navbar__menu .menu__link:hover {
@@ -205,11 +204,11 @@ section.active__class {
     background: rgb(0, 0, 0);
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0) 100%);
 }
-.active__class{
-    border: 1px dashed;
-}
+
 .active_nav{
-    background-color: aqua;
+        background: #333;
+        color: #fff;
+        transition: ease 0.3s all;
 }
 
 section.active__class .landing__container::before {
